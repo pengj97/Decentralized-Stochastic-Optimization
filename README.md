@@ -1,1 +1,1 @@
-# solid-train
+# References of Decentralized-Stochastic-Optimization 
