@@ -65,7 +65,7 @@ https://arxiv.xilesou.top/abs/1901.09865
 https://arxiv.xilesou.top/abs/1902.00340
 
 * Proximity Without Consensus in Online Multiagent Optimization, 2016,
-https://arxiv.xilesou.top/abs/
+https://arxiv.xilesou.top/abs/1606.05578
 
 * Hop: Heterogeneity-Aware Decentralized Training1606.05578, 2019,
 https://arxiv.xilesou.top/abs/1902.01064
