@@ -5,8 +5,8 @@ A references list of papers dedicated to decentralized stochastic optimization
 
  - [Angelia Nedic](#angelia-nedic)
  - [Ali Sayed](#ali-sayed)
- - [Mingyi Hone](#mingyi-hong)
- - [Michal Rabbat](#michal-rabbat)
+ - [Mingyi Hong](#mingyi-hong)
+ - [Michael Rabbat](#michael-rabbat)
  - [Guanghui Lan](#guanghui-lan)
  - [Ji Liu](#ji-liu)
  - [Martin Jaggi](#martin-jaggi)
@@ -24,7 +24,7 @@ https://arxiv.xilesou.top/abs/1708.01384
 
 ## Mingyi Hong
 
-## Michal Rabbat
+## Michael Rabbat
 
 * Multi-agent mirror descent for decentralized stochastic optimization, 2015,
 https://ieeexplore.ieee.org/document/7383850/
