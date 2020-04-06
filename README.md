@@ -86,6 +86,9 @@ https://ieeexplore.ieee.org/document/7383850/
 * Communication-efficient algorithms for decentralized and stochastic optimization, 2017,
 https://arxiv.xilesou.top/abs/1701.03961
 
+* Asynchronous decentralized accelerated stochastic gradient descent, 2018, 
+https://arxiv.xilesou.top/abs/1809.09258
+
 ## Ji Liu
 
 * Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent, 2017,
