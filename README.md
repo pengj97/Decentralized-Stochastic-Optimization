@@ -105,6 +105,9 @@ https://arxiv.xilesou.top/abs/1803.07068
 * A Unified Theory of Decentralized SGD with Changing Topology and Local Updates, 2020,
 https://arxiv.xilesou.top/abs/2003.10422
 
+* Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication, 2019,
+https://arxiv.xilesou.top/abs/1902.00340
+
 ## Other Authors
 
 * Dual Averaging for Distributed Optimization: Convergence Analysis and Network Scaling, 2011,
@@ -118,9 +121,6 @@ https://arxiv.xilesou.top/abs/1901.09865
 
 * Decentralized gradient methods: does topology matter?
 https://arxiv.xilesou.top/abs/2002.12688
-
-* Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication, 2019,
-https://arxiv.xilesou.top/abs/1902.00340
 
 * Proximity Without Consensus in Online Multiagent Optimization, 2016,
 https://arxiv.xilesou.top/abs/1606.05578
