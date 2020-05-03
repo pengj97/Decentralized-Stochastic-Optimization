@@ -127,7 +127,7 @@ https://arxiv.org/abs/2002.08569
 * Asynchronous Accelerated Proximal Stochastic Gradient for Strongly Convex Distributed Finite Sums, 2019,
 https://arxiv.org/abs/1901.09865
 
-* Decentralized gradient methods: does topology matter?
+* Decentralized gradient methods: does topology matter?, 2020
 https://arxiv.org/abs/2002.12688
 
 * Proximity Without Consensus in Online Multiagent Optimization, 2016,
