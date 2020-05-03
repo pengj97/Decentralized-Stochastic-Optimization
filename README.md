@@ -114,6 +114,8 @@ https://arxiv.org/abs/1902.00340
 
 * Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data, 2019,  https://arxiv.org/pdf/1905.12648.pdf
 
+* Communication-Efficient Distributed Optimization in Networks with Gradient Tracking and Variance Reduction, 2019, https://arxiv.org/pdf/1909.05844.pdf
+
 ## Other Authors
 
 * Dual Averaging for Distributed Optimization: Convergence Analysis and Network Scaling, 2011,
