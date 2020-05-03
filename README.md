@@ -129,6 +129,8 @@ https://arxiv.xilesou.top/abs/1606.05578
 https://arxiv.xilesou.top/abs/1902.01064
 
 * DSA: Decentralized Double Stochastic Averaging Gradient Algorithm, 2016,
-https://arxiv.xilesou.top/abs/1506.04216
+https://arxiv.org/abs/1506.04216
+
+* Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data，2019， https://arxiv.org/pdf/1905.12648.pdf
 
 **[⬆ Return to top](#contents)**
