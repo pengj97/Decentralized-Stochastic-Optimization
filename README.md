@@ -10,7 +10,9 @@ A references list of papers dedicated to decentralized stochastic optimization
  - [Guanghui Lan](#guanghui-lan)
  - [Ji Liu](#ji-liu)
  - [Martin Jaggi](#martin-jaggi)
+ - [Yuejie Chi](#yuejie-chi)
  - [Other authors](#other-authors)
+ 
 
 ## Angelia Nedic
 
@@ -108,6 +110,10 @@ https://arxiv.org/abs/2003.10422
 * Decentralized Stochastic Optimization and Gossip Algorithms with Compressed Communication, 2019,
 https://arxiv.org/abs/1902.00340
 
+## Yuejie Chi
+
+* Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data, 2019,  https://arxiv.org/pdf/1905.12648.pdf
+
 ## Other Authors
 
 * Dual Averaging for Distributed Optimization: Convergence Analysis and Network Scaling, 2011,
@@ -130,7 +136,5 @@ https://arxiv.org/abs/1902.01064
 
 * DSA: Decentralized Double Stochastic Averaging Gradient Algorithm, 2016,
 https://arxiv.org/abs/1506.04216
-
-* Convergence of Distributed Stochastic Variance Reduced Methods without Sampling Extra Data, 2019,  https://arxiv.org/pdf/1905.12648.pdf
 
 **[⬆ Return to top](#contents)**
