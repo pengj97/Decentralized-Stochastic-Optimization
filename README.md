@@ -11,7 +11,7 @@ A references list of papers dedicated to decentralized stochastic optimization
  - [Ji Liu](#ji-liu)
  - [Martin Jaggi](#martin-jaggi)
  - [Yuejie Chi](#yuejie-chi)
- - [H. Vincent Poor](#h-vincent-roor)
+ - [H. Vincent Poor](#h.-vincent-poor)
  - [Other authors](#other-authors)
  
 
