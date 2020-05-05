@@ -11,6 +11,7 @@ A references list of papers dedicated to decentralized stochastic optimization
  - [Ji Liu](#ji-liu)
  - [Martin Jaggi](#martin-jaggi)
  - [Yuejie Chi](#yuejie-chi)
+ - [H. Vincent Poor](#h.vincent-roor)
  - [Other authors](#other-authors)
  
 
@@ -109,6 +110,14 @@ https://arxiv.org/abs/1902.00340
 
 * A Unified Theory of Decentralized SGD with Changing Topology and Local Updates, 2020,
 https://arxiv.org/abs/2003.10422
+
+## H. Vincent Poor
+
+* Distributed Stochastic Gradient Descent and Convergence to Local Minima, 2020, 
+https://arxiv.org/abs/2003.02818
+
+* Distributed Gradient Methods for Nonconvex Optimization: Local and Global Convergence Guarantees, 2020, 
+https://arxiv.org/abs/2003.10309
 
 ## Yuejie Chi
 
