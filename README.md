@@ -22,7 +22,7 @@ A references list of papers dedicated to decentralized stochastic optimization
 * Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, 2010,
 https://arxiv.org/abs/0811.2595
 
-* Asynchronous Gossip Algorithm for Stochastic Optimization: Constant Stepsize Analysis, 2010, https://link.springer.com/chapter/10.1007%2F978-3-642-12598-0_5
+i* Asynchronous Gossip Algorithm for Stochastic Optimization: Constant Stepsize Analysis, 2010, https://link.springer.com/chapter/10.1007%2F978-3-642-12598-0_5
 
 * Asynchronous Stochastic Convex Optimization over Random Networks: Error Bounds, 2010, http://ieeexplore.ieee.org/document/5454103/
 
@@ -130,6 +130,9 @@ https://arxiv.org/abs/2003.10309
 * Dual Averaging for Distributed Optimization: Convergence Analysis and Network Scaling, 2011,
 https://arxiv.org/abs/1005.2012
 
+* Distributed Optimization Under Adversarial Nodes，2016
+https://arxiv.org/abs/1606.08939
+
 * DSA: Decentralized Double Stochastic Averaging Gradient Algorithm, 2016,
 https://arxiv.org/abs/1506.04216
 
@@ -141,6 +144,9 @@ https://arxiv.org/abs/1901.09865
 
 * Hop: Heterogeneity-Aware Decentralized Training1606.05578, 2019,
 https://arxiv.org/abs/1902.01064
+
+* Resilient Multi-Dimensional Consensus in Adversarial Environment, 2020
+https://arxiv.org/abs/2001.00937
 
 * Towards Byzantine-resilient Learning in Decentralized Systems, 2020,
 https://arxiv.org/abs/2002.08569
