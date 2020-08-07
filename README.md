@@ -13,7 +13,7 @@ A references list of papers dedicated to decentralized stochastic optimization
  - [Yuejie Chi](#yuejie-chi)
  - [H. Vincent Poor](#h-vincent-poor)
  - [Other authors](#other-authors)
- 
+
 
 ## Angelia Nedic
 
@@ -22,7 +22,7 @@ A references list of papers dedicated to decentralized stochastic optimization
 * Distributed Stochastic Subgradient Projection Algorithms for Convex Optimization, 2010,
 https://arxiv.org/abs/0811.2595
 
-i* Asynchronous Gossip Algorithm for Stochastic Optimization: Constant Stepsize Analysis, 2010, https://link.springer.com/chapter/10.1007%2F978-3-642-12598-0_5
+* Asynchronous Gossip Algorithm for Stochastic Optimization: Constant Stepsize Analysis, 2010, https://link.springer.com/chapter/10.1007%2F978-3-642-12598-0_5
 
 * Asynchronous Stochastic Convex Optimization over Random Networks: Error Bounds, 2010, http://ieeexplore.ieee.org/document/5454103/
 
