@@ -1,6 +1,6 @@
-# References of Byzantine-Robust-Optimization
+# References of Byzantine-Resilient-Optimization
 
-A references list of paper focused on Byzantine-robust optimization
+A references list of paper focused on Byzantine-resilient optimization
 
 ## Papers
 
@@ -14,7 +14,7 @@ https://arxiv.org/abs/1911.07537
 https://arxiv.org/abs/2001.00937
 * Byzantine-Resilient SGD in High Dimensions on Heterogeneous Data, Deepesh Data, Suhas Diggavi, 2020
 https://arxiv.org/abs/2005.07866
-* Byzantine-Resilient Secure Federated Learning,  Jinhyun So, Basak Guler , 2020
+* Byzantine-Resilient Secure Federated Learning,  Jinhyun So, Basak Guler , 2020，
 https://arxiv.org/abs/2007.11115
 * Fault-tolerance in distributed optimization: the case of redundancy,  Nirupam Gupta, Nitin H. Vaidya,  2020 
 https://dl.acm.org/doi/10.1145/3382734.3405748
